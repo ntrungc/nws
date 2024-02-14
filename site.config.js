@@ -4,7 +4,7 @@ const CONFIG = {
     name: "尤妮丝Egg",
     image: "/apple-touch-icon.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "18/7/1992",
-    bio: "Name: Egg-尤妮丝Egg Height: 170cm. Measurements: 95-65-110.",
+    bio: "Height: 170cm. Measurements: 95-65-110.",
     email: "",
     linkedin: "",
     github: "",
