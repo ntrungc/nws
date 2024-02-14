@@ -23,7 +23,7 @@ const CONFIG = {
   },
 
   // CONFIG configration (required)
-  link: "https://ntrunge.vercel.app",
+  link: "https://ntrunge.pages.dev",
   since: 2024, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://www.douyin.com/user/MS4wLjABAAAAoXUGbwZzd8ISU02yDs8TyhFYsjV4b0v4qlexNj79Nrw", // The link to generate OG image, don't end with a slash
